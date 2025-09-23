@@ -5,7 +5,8 @@ Outside of my professional work, I'm interested in graphics programming, specifi
 
 Outside of the programming hobby, I'm interested in making music, sports cars, reef keeping, and fitness!
 
-If you have any professional inquiries for me feel free to shoot me a message on LinkedIn or send me an email!
+## Contact Me
+If you have any professional inquiries or any thing really for me feel free to shoot me a message on LinkedIn or send me an email!
 
 LinkedIn: https://www.linkedin.com/in/zenitopires/
 
