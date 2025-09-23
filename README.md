@@ -8,6 +8,6 @@ Outside of the programming hobby, I'm interested in making music, sports cars, r
 ## Contact Me
 If you have any professional inquiries or any thing really for me feel free to shoot me a message on LinkedIn or send me an email!
 
-LinkedIn: https://www.linkedin.com/in/zenitopires/
+LinkedIn: [https://www.linkedin.com/in/zenitopires/](https://www.linkedin.com/in/zenitopires/)
 
 Email: zenitopires@gmail.com
