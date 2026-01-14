@@ -1,7 +1,7 @@
 ## About Me
 Software Engineer with 5+ years of experience building and operating scalable distributed systems. Strong background in backend development, cloud infrastructure, and DevOps practices, with expertise in Go, C++, AWS, and Kubernetes. Proven ability to own services end-to-end and deliver reliable, high-quality software in production environments.
 
-I'm also interested in game engine development, music composition, sports cars, reef keeping, and fitness!
+I'm also interested in game engine development, music composition, sports cars, reef keeping, and fitness.
 
 ## What I'm Currently Reading
 - [Real-Time Rendering, Fourth Edition by Tomas Akenine-Moller, Eric Haines, Naty Hoffman](https://www.amazon.com/Real-Time-Rendering-Fourth-Tomas-Akenine-M%C3%B6ller/dp/1138627003)
